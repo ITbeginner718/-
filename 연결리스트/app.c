@@ -1,6 +1,6 @@
 #include "main.h"
 //app.c
-
+//설정 테스트 
 //처음 화면 
 void app_Init()
 {
